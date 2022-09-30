@@ -8,7 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("estoy probando algunas funciones de android con git")
-        println("antes de pasar de rama hice un commit")
+        println("ya estoy en la rama de develop")
+
+
 
     }
 }
